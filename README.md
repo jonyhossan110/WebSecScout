@@ -151,11 +151,6 @@ beautifulsoup4 — HTML parsing (future use)
 **Md. Jony Hassain**
 Web Cybersecurity Expert | Ethical Hacker | Web Penetration Tester
 
-- 🌐 Agency: [HexaCyberLab](https://facebook.com/HexaCyberLab)
-- 💼 LinkedIn: [md-jony-hassain-web-cybersecurity-expert](https://linkedin.com/in/md-jony-hassain/)
-- 💻 Upwork: [HexaCyberLab Profile](https://upwork.com/freelancers/~01fb775c14cdfe8922)
-- 🐙 GitHub: [jonyhossan110](https://github.com/jonyhossan110)
-
 ---
 
 ## 📜 License
